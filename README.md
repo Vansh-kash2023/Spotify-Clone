@@ -34,7 +34,7 @@ Make sure you have a modern web browser installed, such as Google Chrome, Firefo
 
 2. **Navigate to the project directory**:
    ```bash
-   cd spotify-clone
+   cd Spotify-Clone
    ```
 
 3. **Open `index.html` in your web browser**:
