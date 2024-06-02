@@ -239,6 +239,8 @@ body {
 .songList .info {
     font-size: 13px;
     width: 344px;
+    position: relative;
+    top: 6px;
 }
 
 .info div {
@@ -434,7 +436,6 @@ body {
         width: 100vw;
     }
 
- 
 
     
 }
